@@ -1,5 +1,3 @@
-#Git Training
+# Github ID list 
 
-test
-test2
-test3
+1> liuyang: lyang777
