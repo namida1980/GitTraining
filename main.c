@@ -8,4 +8,7 @@ main()
     int ljy0244 = function_ljy0244();
 
     //TBD
+	int mqj0177 = function_mqj0177();
+    //zengyijing
+    int z0150 = function_l0150();
 }
