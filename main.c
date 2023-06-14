@@ -11,4 +11,7 @@ main()
 	int mqj0177 = function_mqj0177();
     //zengyijing
     int z0150 = function_l0150();
+
+    //zhangshouchang
+    int zsc0144 = function_zsc0144();
 }
